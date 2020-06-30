@@ -48,6 +48,6 @@ Descrição dos dados:
 
 Obs: Os dados são fictícios, mas tentam representar a realidade de uma base de clientes de um produto SaaS. 
 
-
+Acabei fazendo o exercício em R, em breve adiciono os códigos em Python.
 
 
